@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "Bash(cd D:/Github/Vstorage && cargo test 2>&1)"
+    ]
+  }
+}
